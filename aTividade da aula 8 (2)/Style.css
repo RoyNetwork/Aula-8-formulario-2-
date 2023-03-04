@@ -1,0 +1,16 @@
+.supernova {
+    background-image: url('{Ricky\ Astley\ GIF\ jajajaja.gif}');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+    background-image: url('Ricky\ Astley\ GIF\ jajajaja.gif')
+    
+}
+
+Body {
+    text-align: center;
+}
